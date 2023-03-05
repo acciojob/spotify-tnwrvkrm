@@ -24,10 +24,12 @@ public class Artist {
     }
 
     public int getLikes() {
+
         return likes;
     }
 
     public void setLikes(int likes) {
+
         this.likes = likes;
     }
 }
